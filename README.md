@@ -53,8 +53,8 @@ Prérequis
 
 Étapes
 # Cloner le projet
-git clone <url-du-repo>
-cd genealogie-app
+git clone <https://github.com/elomAglan/Geneo.gitrepo>
+cd geneo
 
 # Installer les dépendances
 npm install
